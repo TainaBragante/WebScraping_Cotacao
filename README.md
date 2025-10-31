@@ -1,7 +1,5 @@
 # WebScraping de Cotação de Criptomoedas no Excel
 
-## Sobre o projeto
-
 O **Robô de Cotação** é uma automação em **Python + Selenium** que visita páginas de histórico de preços de criptomoedas, captura os **valores de fechamento** e atualiza planilhas de **Excel** individuais para cada ativo, com foco de manter um **histórico confiável**, sem duplicar datas.
 
 
